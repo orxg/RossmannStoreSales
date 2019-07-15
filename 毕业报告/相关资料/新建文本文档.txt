@@ -1,0 +1,5 @@
+项目地址 ： https://www.kaggle.com/c/rossmann-store-sales/
+开题报告模板：https://github.com/udacity/MLND_CN_Capstone/blob/master/capstone_proposal_template.md
+报告模板：https://github.com/nd009/capstone/blob/master/capstone_report_template.md
+项目地址：https://github.com/udacity/cn-machine-learning/tree/master/Rossmann_Store_Sales
+第三名的方案：https://github.com/entron/entity-embedding-rossmann
